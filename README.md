@@ -8,13 +8,12 @@ Tour of Heroes is an introductory course on Angular found at https://angular.io/
 
 | Component    | Tech                                                                                                                                                                                                             |
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| App Link     | [toh.lyle.app](https://toh.lyle.app)                                                                                                                                                                             |                                                                                                                                                                                                                                                                                               
+| App Link     | [toh.lyle.app](https://toh.lyle.app)                                                                                                                                                                             |
 | Frontend     | ![Angular](https://img.shields.io/badge/angular-E23237.svg?style=for-the-badge&logo=angular&logoColor=white)                                                                                                     |
 | Backend      | ![Java](https://img.shields.io/badge/JAVA%20-JDK%2011-green?style=for-the-badge) ![Spring Boot](https://img.shields.io/badge/spring%20boot%202.1-white.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F)                                                                                                           |  
 | Database     | ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)                                                                                            |
 | Cloud        | ![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4.svg?style=for-the-badge&logo=Google%20Cloud&logoColor=white)                                                                                  |
-| Client Build | ![NPM](https://img.shields.io/badge/npm-white.svg?style=for-the-badge&logo=npm&logoColor=CB3837) ![Yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=FFF)               |                                                                                                                                                                                                                                                                                               
-| Server Build | ![Maven](https://img.shields.io/badge/maven-white.svg?style=for-the-badge&logo=apache%20maven&logoColor=C71A36)                                                                                                  |
+| Client Build | ![NPM](https://img.shields.io/badge/npm-white.svg?style=for-the-badge&logo=npm&logoColor=CB3837) ![Yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=FFF)               |
 | API          | ![Swagger](https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=FFF)                                                                                                       |
 | Repo Size    | ![Repo Size](https://img.shields.io/github/repo-size/lylio/tour-of-heroes?style=for-the-badge)                                                                                                                   |
 
@@ -30,6 +29,7 @@ Tour of Heroes is an introductory course on Angular found at https://angular.io/
 1. `ng test`
 
 #### Run End-to-End Tests
+1. `ng e2e`
 
 #### Database (coming soon)
 
