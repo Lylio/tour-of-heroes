@@ -1,27 +1,46 @@
-# AngularTourOfHeroes
+# Tour of Heroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+### Description
+Tour of Heroes is an introductory course on Angular found at https://angular.io/tutorial/tour-of-heroes/toh-pt0.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Tech Stack
 
-## Code scaffolding
+| Component    | Tech                                                                                                                                                                                                             |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| App Link     | [toh.lyle.app](https://toh.lyle.app)                                                                                                                                                                             |                                                                                                                                                                                                                                                                                               
+| Frontend     | ![Angular](https://img.shields.io/badge/angular-E23237.svg?style=for-the-badge&logo=angular&logoColor=white)                                                                                                     |
+| Backend      | ![Java](https://img.shields.io/badge/JAVA%20-JDK%2011-green?style=for-the-badge) ![Spring Boot](https://img.shields.io/badge/spring%20boot%202.1-white.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F)                                                                                                           |  
+| Database     | ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)                                                                                            |
+| Cloud        | ![Google Cloud](https://img.shields.io/badge/google%20cloud-4285F4.svg?style=for-the-badge&logo=Google%20Cloud&logoColor=white)                                                                                  |
+| Client Build | ![NPM](https://img.shields.io/badge/npm-white.svg?style=for-the-badge&logo=npm&logoColor=CB3837) ![Yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=FFF)               |                                                                                                                                                                                                                                                                                               
+| Server Build | ![Maven](https://img.shields.io/badge/maven-white.svg?style=for-the-badge&logo=apache%20maven&logoColor=C71A36)                                                                                                  |
+| API          | ![Swagger](https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=FFF)                                                                                                       |
+| Repo Size    | ![Repo Size](https://img.shields.io/github/repo-size/lylio/tour-of-heroes?style=for-the-badge)                                                                                                                   |
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+### Launch
+1. `ng serve --open`
+2. Navigate to `http://localhost:4200/`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+#### Build (run before deployment)
+1. `ng build --prod`
 
-## Running unit tests
+#### Run Unit Tests
+1. `ng test`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+#### Run End-to-End Tests
 
-## Running end-to-end tests
+#### Database (coming soon)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+#### Backend (coming soon)
 
-## Further help
+#### Frontend (coming soon)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+#### API (coming soon)
+
+<br />
+
+### Acknowledgements
+- The repo badges, logos and code stats included in this README are courtesy of [Simple Icons](https://simpleicons.org/) and [Shields.io](https://shields.io/).
+
